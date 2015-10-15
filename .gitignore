@@ -1,0 +1,5 @@
+package.json
+build/
+.git
+.DS_Store
+node_modules/
